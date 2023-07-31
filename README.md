@@ -1,4 +1,7 @@
 ### Hi there 👋
+## I am Sandeep Kherkatary
+- currently pursuing BTech in Computer Science & Engineering from NIT Silchar
+
 
 <!--
 **kherkatary/kherkatary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
